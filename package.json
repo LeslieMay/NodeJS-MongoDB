@@ -1,0 +1,9 @@
+{
+	"name":"mongoose",
+	"main":"app.js",
+	"dependencies":{
+//		"express":"*",
+		"mongoose":"*",
+//		"express-generator":"*"
+	}
+}
